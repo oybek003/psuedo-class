@@ -1,0 +1,319 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200..1000;1,200..1000&family=Roboto+Slab:wght@100..900&display=swap');
+
+
+.nav{
+    display: flex;
+    justify-content: space-around;
+}
+
+.nav ul{
+    list-style: none;
+    display: flex;
+    gap: 40px;
+    color: grey;
+}
+
+.nav ul li:first-child{
+    color: black;
+
+}
+
+.otec1{
+    margin-top: 90px;
+    margin-left: 130px;
+}
+
+.first{
+    font-family: "Mulish", sans-serif;
+    font-size: 45px;
+    font-weight: 700;
+}
+
+.oybek{
+    color: #7D7987;
+}
+
+.oybek2{
+    border: 1px solid red;
+    width: 197px;
+    height: 49px;
+    border-radius: 55px;
+    text-align: center;
+    color: black;
+}
+
+.otec1 h4{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.otec1 h4:hover{
+    background-color: blue;
+    border: 1px solid blue;
+    color: white;
+}
+
+.list2{
+    width: 609px;
+    height: 466.68px;
+}
+
+.otec1{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.otec2{
+    margin-top: 90px;
+}
+
+.parent1{
+    font-family: "Mulish", sans-serif;
+    font-size: 35px;
+    font-weight: 700;
+}
+
+.child1{
+    color: #7D7987;
+}
+
+.span{
+    text-align: center;
+}
+
+.main{
+    margin-top: 36px;
+}
+
+.baby p{
+    color: #7D7987;
+}
+
+.baby{
+    background-color: #E7E7E7;
+    width: 380px;
+    height: 380px;
+    border-radius: 20px;
+}
+
+.main{
+    display: flex;
+    justify-content: space-evenly;
+    /* flex-wrap: wrap; */
+}
+
+.baby h5{
+    box-sizing: border-box;
+    padding-left: 41px;
+    /* width: 212.8px;
+    height: 60.91px; */
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.baby p{
+    /* width: 274.98px;
+    height: 88.74px; */
+    font-size: 16px;
+    font-weight: 300;
+    box-sizing: border-box;
+    padding-left: 41px;
+}
+
+.style3{
+    box-sizing: border-box;
+    padding-left: 38px;
+    padding-top: 65px;
+}
+
+.parent{
+    display: flex;
+    justify-content: space-evenly;
+    /* flex-wrap: wrap; */
+    margin-top: 40px;
+}
+
+.home{
+    text-align: center;
+    color: blue;
+    border: 1px solid blue;
+    width: 200px;
+    height: 56.74px;
+    border-radius: 55px;
+    box-sizing: border-box;
+    padding-top: 17px;
+    margin: 0 auto;
+    margin-top: 32px;
+}
+
+.baby:hover{
+    background-color: blue;
+    color: white;
+}
+
+.parent2 h2{
+    text-align: center;
+    margin-top: 200px;
+    font-size: 45px;
+    font-weight: 700;
+}
+
+
+    .main{
+        margin: 0 auto;
+    }
+
+    .child{
+        margin-top: 75px;
+    }
+
+.child h3{
+    font-family: "Mulish", sans-serif;
+    font-weight: 700;
+    font-size: 30px;
+}
+
+.child p{
+    font-family: "Mulish", sans-serif;
+    font-weight: 300;
+    font-size: 15px;
+    color: #7D7987;
+}
+
+.child h4{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: "Mulish", sans-serif;
+    text-align: center;
+    color: blue;
+    border: 3px solid blue;
+    width: 150px;
+    height: 50px;
+    border-radius: 55px 
+}
+
+.child h4:hover{
+    font-family: "Mulish", sans-serif;
+
+    color: white;
+    background-color: blue;
+}   
+
+.main2{
+    margin-top: 150px;
+}
+
+.child2 h2{
+    text-align: center;
+    font-family: "Mulish", sans-serif;
+    font-weight: 700;
+    font-size: 35px;
+}
+
+.style{
+    margin-top: 100px;
+}
+
+.child2{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.child3{
+    text-align: center;
+    font-family: "Mulish", sans-serif;
+    font-weight: 700;
+    font-size: 35px;
+}
+
+.child2{
+    margin-top: 100px;
+}
+
+.muslimov h5{
+    font-family: "Mulish", sans-serif;
+    font-weight: 700;
+    font-size: 15px;
+}
+
+.muslimov p{
+    font-family: "Mulish", sans-serif;
+    font-weight: 300;
+    font-size: 10px;
+    color: #7D7987;
+}
+
+.muslimov h4{
+    color: #4089ED;
+    font-family: "Mulish", sans-serif;
+    font-weight: 600;
+    font-size: 12px;
+}
+
+.muslimov{
+    width: 380px;
+    height: 450px;
+    background-color: aliceblue;
+
+}
+
+.muslimov h5{
+    box-sizing: border-box;
+    padding-left: 30px;
+}
+
+.muslimov p{
+    box-sizing: border-box;
+    padding-left: 30px;
+}
+
+.muslimov h4{
+    box-sizing: border-box;
+    padding-left: 30px;
+}
+
+.muslimov h4:hover::after{
+    content: '->';
+    color: #4089ED;
+    font-size: 12px;
+}
+
+.dog{
+    text-align: center;
+    margin: 40px  auto;
+    font-family: "Mulish", sans-serif;
+    font-weight: 700;
+    font-size: 15px;
+    color: #4089ED;
+    border: 3px solid #4089ED ;
+    width: 135px;
+    height: 35px;
+    border-radius: 100px;
+}
+
+.dog2{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+    padding-bottom: 30px;
+}
+
+.finish{
+    background-color: #4089ED;
+    display: flex;
+    justify-content: space-around;
+    /* width: 1600px; */
+    height: 300px;
+    align-items: center;
+    color: white;
+}
+
+.dog:active{
+    background-color: #4089ED;
+    color: white;
+}
